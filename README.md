@@ -1,5 +1,4 @@
 # Imprint
-Imprint
 
 RiskQuant Pty Ltd t/as Cyber Risk Quant.
 
